@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efbe7064-be19-4945-b510-80bd5f05c7be" name="Default Changelist" comment="" />
+    <list default="true" id="efbe7064-be19-4945-b510-80bd5f05c7be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +31,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="86">
               <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
             </state>
           </provider>
@@ -86,8 +88,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="928" />
-    <option name="y" value="58" />
+    <option name="x" value="353" />
+    <option name="y" value="59" />
     <option name="width" value="1555" />
     <option name="height" value="895" />
   </component>
@@ -115,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615006126069" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615007519601" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -222,7 +224,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614943277136</updated>
       <workItem from="1614943278505" duration="5126000" />
-      <workItem from="1615006264583" duration="228000" />
+      <workItem from="1615006264583" duration="1238000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1614948120127</created>
@@ -235,10 +237,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5400000" />
+    <option name="totallyTimeSpent" value="6364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="928" y="58" width="1555" height="895" extended-state="0" />
+    <frame x="353" y="59" width="1555" height="895" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20267558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -256,7 +258,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32962137" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.65807325" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6567164" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -324,7 +326,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="86">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
